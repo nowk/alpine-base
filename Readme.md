@@ -9,9 +9,10 @@ Includes:
 * curl
 * wget
 * openresolv
+* git
 
 | Stats             |        |
 | ----------------- | ------ |
-| Docker Image Size | ~10 MB |
-| Rocket ACI Size   | ~5 MB  |
+| Docker Image Size | ~25 MB |
+| Rocket ACI Size   | ~12 MB |
 
