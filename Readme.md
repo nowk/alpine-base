@@ -1,6 +1,8 @@
 # alpine-base
 
-Apline 3.2 
+Apline 3.2 base container
+
+    FROM nowk/alpine-bare:3.2
 
 Includes:
 
@@ -8,7 +10,6 @@ Includes:
 * make
 * curl
 * wget
-* openresolv
 * git
 
 | Stats             |        |
